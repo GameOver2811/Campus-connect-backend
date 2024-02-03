@@ -3,9 +3,8 @@ const mongoose = require("mongoose");
 
 // Import - Ends here
 
-
 // Database URL
-const DATABASE_URL = "mongodb://localhost:27017";
+const DATABASE_URL = "mongodb://localhost:27017/campus-connect";
 
 
 // Function to connect with database
